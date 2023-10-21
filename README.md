@@ -1,3 +1,11 @@
+# Motivate yourself! 😎 Just hit the button and get your daily advice .
+
+# How to set up?
+Just clone and "npm i"
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
