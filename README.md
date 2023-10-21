@@ -1,4 +1,4 @@
-# Motivate yourself! 😎 Just hit the button and get your daily advice .
+# Motivate yourself! 😎 Just hit the button to get your daily advice!
 
 # How to set up?
 Just clone and "npm i"
