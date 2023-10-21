@@ -1,0 +1,50 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background-image: url("../img/sky.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.advice {
+  color: rgb(252, 252, 251);
+  margin: 10px;
+  border-radius: 25%;
+  font-size: medium;
+  padding: 10px;
+  min-height: 200px;
+  width: 800px;
+  border: 1px solid black;
+  background-color: #e5c3b932;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+h3:hover {
+  color: white;
+  text-shadow: 3px 7px 9px greenyellow;
+}
+
+.button {
+ 
+  opacity: 0.3;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: 800;
+  color: gray;
+  border: 1px solid transparent;
+}
+
+.button:hover {
+  color: rgb(227, 227, 82);
+  background-color: cornflowerblue;
+  opacity: 1;
+  border: none;
+  outline: none;
+}
